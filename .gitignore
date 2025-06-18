@@ -4,5 +4,3 @@
 # Ignore dependencies
 node_modules/
 
-#Ignore dependencies
-/frontend/node_modules/
